@@ -1,10 +1,10 @@
-# react-native-alipush
+# react-native-ali-push
 
 ### 配置
 
 ```
-npm i react-native-alipush -S
-npm link react-native-alipush
+npm i react-native-ali-push -S
+react-native link react-native-ali-push
 ```
 
 ### android配置
